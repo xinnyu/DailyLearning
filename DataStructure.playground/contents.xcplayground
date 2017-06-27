@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Queue'/>
+        <page name='Stack'/>
+        <page name='LinkedList'/>
+        <page name='Tree'/>
+        <page name='Tree(enum)'/>
+        <page name='HashTable'/>
+        <page name='BST'/>
+    </pages>
+</playground>

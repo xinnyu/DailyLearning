@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='ArrayBasics'/>
+        <page name='StringBasics'/>
+        <page name='SortDescription'/>
+        <page name='AutoClousure'/>
+        <page name='Optional'/>
+        <page name='PatternMatching'/>
+        <page name='Protocol'/>
+        <page name='Attributes(声明特性)'/>
+        <page name='Copy-On-Write'/>
+        <page name='值类型和引用类型'/>
+        <page name='Point'/>
+        <page name='Mirror'/>
+        <page name='Timer'/>
+        <page name='Serialization'/>
+        <page name='Operation'/>
+    </pages>
+</playground>
